@@ -1,0 +1,75 @@
+{
+	"profile":{
+	    "basics":{
+	        "name":"Hrithvik",
+	        "role":"developer",
+	        "email":"hrithvikatluri@gmail.com",
+	        "mobile":"8639912629"
+
+	    },
+	    "details":{
+	    	"summary":[
+				"Persuing btech in the branch of computer science and engineering (CSE)",
+				"Having knowledge on Front-end technologies like HTML5,CSS3,JavaScript.",
+				"Having practical exposure on back-end technologies like node and mysql",
+				"Built projects using frameworks like React, Bootstrap",
+				"Focussed on programming languages like python, Java, C, C++"
+			],
+			"careerobjective":[
+				"To work in a challenging and dynamic environment and also upgrading my skills and knowledge"
+			],
+			"personalprofile":[
+				 
+					"DOB : 22-01-2001",
+					"CITY : Ongole",
+					"STATE : Andhra Pradesh",
+					"NATIONALITY : Indian",
+					"LANGUAGES KNOWN : Telugu, English"
+				
+
+			],
+			"education":[
+				"Persuing btech in SRM University with 82%",
+				"passed out 12th from Sri Chaitanya jr.College in 2017 with 96%",
+				"passed out 10th from Bhashyam High School in 2015 with 97%"
+	
+			],
+			"skills":[
+				{
+					"type":"Programming Languages",
+					"values":["C","C++","Java, python"]
+				},
+				{
+					"type":"Web Technologies",
+					"values":["HTML","CSS","JavaScript"]
+				},
+				{
+					"type":"Frameworks",
+					"values":["Bootstrap","Reactjs"]
+				}
+				
+			],
+			"personalskills":[
+				"Good communication and Presentation skills",
+				"Comfortable with travel for longer period",
+				"Web designing and Web development"
+
+			],
+			"achievements":[
+				"Participated in inter-school singing compitition and awarded for the same",
+				"Awarded by school for winning in chess tournments"
+			],
+			"hobbies":[
+				"Listening music",
+				"singing",
+				"Travelling",
+				"Designing"
+			],
+			"declaration":[
+				"I solemnly declare that all the above information is true to the best of my knowledge and belief."
+			]
+
+	    }
+
+	}
+}
